@@ -1,2 +1,7 @@
 # Planejamento das tarefas no ciclo ágil
-Repositório com o arquivo README.MD para visualização dos corretores da gama academy
+## Time Prof. Isidro
+## Descrição das atividades
+
+### Sprint 01- Habilidade de resolução de problemas com Algoritmos ###
+** atividade 2.0 **
+- oi
