@@ -82,7 +82,7 @@
 
 ### Sprint 02- Habilidade de modelagem dos dados a serem armazenados ###
 
- - **Objetivo da sprint:** Criar um banci de dados com os itens coletados durante a atividade 2 e adicionar vários outros itens referentes aos usuários. Além disso edesenvolver um diagrama ER
+ - **Objetivo da sprint:** Criar um banco de dados com os itens coletados durante a atividade 2 e adicionar vários outros itens referentes aos usuários. Além disso edesenvolver um diagrama ER
 
 **Atividade 3.0 - configurar o ambiente**
 - Descrição da tarefa: Preparar o MySQL workbench para cria diagramas ER e prepara uma base de dados
